@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 02.07.14
+# last-update: 02.07.16
 # count: 41
 vless://3b715892-8610-4fdc-9086-647b36af5443@fastly.videobazi.com:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2F&host=dutschh.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#🇧🇪 🏴 WLUnlocker Бельгия | #2
