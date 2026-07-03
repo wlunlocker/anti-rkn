@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 03.07.18
+# last-update: 03.07.20
 # count: 44
 vless://1d69b662-74b4-46e4-8353-7c48e11ab9cd@edge-bg-sof.cdn.sx:2083?security=tls&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0#🇫🇮 🏴 WLUnlocker Финляндия | #1
 vless://bad760fb-e66b-4e5d-a62c-ebf5a91d08b8@fin31.official-happ.ru:35381?type=tcp&headerType=none&security=none&encryption=none#🇳🇱 🏴 WLUnlocker Нидерланды | #2
