@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 02.07.22
+# last-update: 03.07.00
 # count: 64
 vless://6d31a121-afcf-419b-af11-73381a7cd7b3@api.yandex-developer.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&sni=api.yandex-developer.org#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://6d31a121-afcf-419b-af11-73381a7cd7b3@api.yandex-api.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&sni=api.yandex-api.org#🇫🇷 🏴 WLUnlocker Франция | #2
