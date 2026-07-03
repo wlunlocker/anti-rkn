@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 03.07.17
+# last-update: 03.07.19
 # count: 200
 hysteria2://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@unic.hysteria.ltd:5443?headerType=none&encryption=none&sni=unic.hysteria.ltd&insecure=0#🇩🇪 🏳️ WLUnlocker Германия | #1
 hysteria2://97d290a0-acec-4aae-b8cf-c7111a5a6397@srvhy1.ezcon24.online:8443?__rand=523fd449&insecure=0&sni=srvhy1.ezcon24.online#🇳🇱 🏳️ WLUnlocker Нидерланды | #2
