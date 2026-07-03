@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 03.07.08
+# last-update: 03.07.11
 # count: 76
 vless://3dbec774-ef69-463f-9bec-dfc899e41cb9@aifrance.servraff.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=joyn.de&fp=edge&pbk=sp3MB2t9QnTD4vMRFDpDu1aE0d1F11apXrONTGGEBX8&flow=xtls-rprx-vision#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://9480871a-3843-441c-9b83-aa8c5c96b209@155.117.137.110:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3c9c5d01c6f824dd&sni=cdn6-49.yahoo.com#🇫🇷 🏴 WLUnlocker Франция | #2
