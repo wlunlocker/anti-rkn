@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 04.07.04
+# last-update: 04.07.07
 # count: 198
 hysteria2://16de749f-ce86-4ccd-9743-7a0ff2556185@alba.normbot.ru:443?sni=alba.normbot.ru#🇩🇪 🏳️ WLUnlocker Германия | #1
 hysteria2://3e6d5dd0-05ff-4efd-b9ef-3b68843e6d81@at164.mechvpn.online:443?sni=at164.mechvpn.online#🇺🇸 🏳️ WLUnlocker США | #2
