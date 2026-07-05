@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 05.07.14
+# last-update: 05.07.16
 # count: 93
 vless://83c7f81b-4f26-405d-9a55-4e164249cbdd@eidos.chick-team.ru:443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=DZ9WtBLSxRMvAzBMjcaAX9LCQztQkIks4UUQ4gsPtQA&sni=eidos.chick-team.ru&sid=975205ed8e68eced&flow=xtls-rprx-vision#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://f0be198c-db8c-4622-8803-ba3c8c8db515@89.19.223.92:8443?type=tcp&security=none&encryption=none#🇪🇸 🏴 WLUnlocker Испания | #2
