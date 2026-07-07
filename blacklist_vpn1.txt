@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 07.07.10
+# last-update: 07.07.13
 # count: 144
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=firsttime.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=firsttime.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇳🇱 🏴 WLUnlocker Нидерланды | #2
