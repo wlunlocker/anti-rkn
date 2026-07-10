@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 09.07.22
+# last-update: 10.07.00
 # count: 142
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg2.auragg.org:443?sni=argg2.auragg.org#🇫🇷 🏳️ WLUnlocker Франция | #1
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg3.auragg.org:443?sni=argg3.auragg.org#🇫🇷 🏳️ WLUnlocker Франция | #2
