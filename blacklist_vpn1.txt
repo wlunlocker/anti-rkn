@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 11.07.11
+# last-update: 11.07.13
 # count: 97
 vless://2797a040-443c-4249-ab49-546b37519642@188.255.236.36:4443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=8aMr3qhqB8IfgPAulPswCnGKKcyMiS9TokNJhV-5ozs&sid=239b4d329aa68487&sni=yandex.ru#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://570779d8-b4cd-4b3c-a8bd-6127f51c4d48@msk.24pitbullstore.ru:2087?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=J2RPvguvaBHlFDFOcZHs4sY9wSNIGNvvmDZud49A7i8&sid=9f0a1b2c&sni=msk.24pitbullstore.ru&spx=/#🇪🇸 🏴 WLUnlocker Испания | #2
