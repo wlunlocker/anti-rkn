@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 11.07.11
+# last-update: 11.07.13
 # count: 151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaWhqbmpsM3FzZnI3dTE1@185.92.180.178:8080?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D#🇨🇦 🏳️ WLUnlocker Канада | #1
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@argg2.auragg.org:443?sni=argg2.auragg.org#🇫🇷 🏳️ WLUnlocker Франция | #2
