@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 11.07.20
+# last-update: 11.07.21
 # count: 124
 vless://2797a040-443c-4249-ab49-546b37519642@limited2.cloud134.ru:5443?mode=stream-one&path=%2F&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=firefox&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#🇺🇸 🏴 WLUnlocker США | #1
 vless://2797a040-443c-4249-ab49-546b37519642@limited2.cloud134.ru:5443?mode=stream-one&path=%2F&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=qq&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#🇺🇸 🏴 WLUnlocker США | #2
