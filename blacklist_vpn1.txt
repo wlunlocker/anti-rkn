@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 12.07.11
+# last-update: 12.07.13
 # count: 74
 vless://58be4691-5430-417a-96e3-02736d151490@securitytrails.com:2083?type=xhttp&security=tls&path=/forall&sni=log.beforenext.dpdns.org&fp=chrome#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@91.209.71.83:43264?fp=firefox&mode=auto&pbk=V7HRYFnC_mCHvqcO5o9sKVN-vs_tQ1FnB9seskMAB0A&security=reality&sid=eb&sni=samsung.com&type=xhttp#🇫🇷 🏴 WLUnlocker Франция | #2
