@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 11.07.23
+# last-update: 12.07.02
 # count: 157
 vless://5509adee-0d79-47cb-b914-e04ddf2c0ea1@195.133.35.112:443?encryption=none&security=reality&sni=iv.kommersant.ru&fp=firefox&pbk=K7xM8Vi4Sl4JdSetb1h0jlxLnQNKxIxHo2_UsVKnszk&sid=78b364fbfc1f&spx=%2F&type=tcp&headerType=none#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://5509adee-0d79-47cb-b914-e04ddf2c0ea1@195.133.35.112:8443?encryption=none&security=reality&sni=iv.kommersant.ru&fp=chrome&pbk=42H-eMmUBV-bGIyIuZmDbxDP8na6sa0zx2tewBayWyc&sid=f3b7&spx=%2F&type=tcp&headerType=none#🇨🇭 🏴 WLUnlocker Швейцария | #2
