@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 13.07.16
+# last-update: 13.07.18
 # count: 176
 vless://b6e50611-661d-4e78-8dff-73f68fb2bcf2@entry.gconexustun.ru:48313?mode=packet-up&path=%2F&security=reality&encryption=none&pbk=E-SCapk16uia3_5Z2Ijkb9S9Rvjj-hYLwKv8dAoWX3E&fp=chrome&type=xhttp&sni=passport.yandex.ru#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.129.199.99:443?encryption=none&fp=firefox&host=www.tradingview.com&mode=auto&path=/630fdd2a-0f82-4a85-9ecf-7f490b9e8c24&pbk=iudzEpcjL_9hNvn7rf05GwUfV5zMpf8TSumBNo4VLTM&security=reality&sid=b30a30f0&sni=www.tradingview.com&type=xhttp#🇪🇸 🏴 WLUnlocker Испания | #2
