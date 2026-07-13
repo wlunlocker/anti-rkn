@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 13.07.21
+# last-update: 13.07.22
 # count: 85
 vless://0b08b1c4-342a-4992-ac5f-5b9eff2327a0@20.151.233.69:443?&security=reality&flow=xtls-rprx-vision&pbk=dalyPgxW_YMUf1O3cgNWc-3XDeShAzU43307V4rBr3s&sid=64597fca&fp=safari&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?encryption=none&type=xhttp&mode=packet-up&host=vk.com&path=%2Fvideo%2Fv5%2Fchunks&security=reality&sni=vk.com&fp=firefox&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c#🇨🇭 🏴 WLUnlocker Швейцария | #2
