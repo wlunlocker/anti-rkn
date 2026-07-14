@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 13.07.23
+# last-update: 14.07.03
 # count: 172
 vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@cxh1.w-mebel.pro:443?type=xhttp&security=reality&fp=qq&pbk=UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM&sid=ad96a4ff2853b26c&sni=vk.com&path=%2Fvideo%2Fv5%2Fchunks&mode=packet-up#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://3fb89d9b-f56a-4b45-bc31-306f1fe7ab85@czre1.w-mebel.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=firefox&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&type=tcp&headerType=none&sid=c603efb3ddaf633d&spiderX=/#🇨🇭 🏴 WLUnlocker Швейцария | #2
