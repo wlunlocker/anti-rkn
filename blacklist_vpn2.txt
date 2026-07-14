@@ -1,16 +1,16 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 14.07.02
+# last-update: 14.07.05
 # count: 117
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#🇨🇦 🏳️ WLUnlocker Канада | #1
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1#🇨🇦 🏳️ WLUnlocker Канада | #2
-hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?sni=www.bing.com&alpn=h3&insecure=1#🇸🇪 🏳️ WLUnlocker Швеция | #3
-hysteria2://d5m-5bGOsVbFgRlxsEyO3pCF@8.148.4.25:55020?insecure=1&nonce=_fTB7H3d#🇨🇭 🏳️ WLUnlocker Швейцария | #4
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#🇸🇪 🏳️ WLUnlocker Швеция | #5
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&descriptions=465#🇩🇪 🏳️ WLUnlocker Германия | #6
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165&insecure=1#🇸🇪 🏳️ WLUnlocker Швеция | #7
-hysteria2://88f839f2-c3c0-487d-aac3-f8c089d2369d@45.154.205.25:55000?insecure=1#🇸🇪 🏳️ WLUnlocker Швеция | #8
-hysteria2://1e06c388-d31c-420e-916a-94a990648e34@united.hysteria.ltd:5443?insecure=1&sni=united.hysteria.ltd#🇸🇪 🏳️ WLUnlocker Швеция | #9
-hysteria2://3bf33d8e-7bc7-470c-85af-8436f93dce3e@156.229.164.1:55000?insecure=1&sni=www.bing.com#🇸🇪 🏳️ WLUnlocker Швеция | #10
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309/?insecure=1#🇸🇪 🏳️ WLUnlocker Швеция | #1
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2#🇨🇦 🏳️ WLUnlocker Канада | #2
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&insecure=1#🇨🇦 🏳️ WLUnlocker Канада | #3
+hysteria2://1624ccf4-f88b-4411-81bd-978570b3cbdc@156.226.172.6:55000?insecure=1&sni=www.bing.com#🇸🇪 🏳️ WLUnlocker Швеция | #4
+hysteria2://d6cc5b3d-304e-48dc-83b0-68e02f5afc05@156.226.172.6:55000?insecure=1&sni=www.bing.com#🇸🇪 🏳️ WLUnlocker Швеция | #5
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world&insecure=1&allowInsecure=1#🇸🇪 🏳️ WLUnlocker Швеция | #6
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&descriptions=465#🇩🇪 🏳️ WLUnlocker Германия | #7
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165&insecure=1#🇸🇪 🏳️ WLUnlocker Швеция | #8
+hysteria2://88f839f2-c3c0-487d-aac3-f8c089d2369d@45.154.205.25:55000?insecure=1#🇸🇪 🏳️ WLUnlocker Швеция | #9
+hysteria2://7c7ff1be-a6e9-4a6f-853c-052ed3f3f21b@45.202.248.138:55000?insecure=1&sni=www.bing.com#🇸🇪 🏳️ WLUnlocker Швеция | #10
 hysteria2://3bf33d8e-7bc7-470c-85af-8436f93dce3e@45.202.248.138:55000?insecure=1&sni=www.bing.com#🇨🇦 🏳️ WLUnlocker Канада | #11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YjU2YWVhYS04ZTJkLTRiZGYtYjFkNy0yMzNlY2NhMTVmNTZAbmFtcmNnMDAxNjQwbHJtLmN5YmVydmVuYS5jb206NTAwOTk=#🇳🇱 🏳️ WLUnlocker Нидерланды | #12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.25.13.29:50099#🇩🇪 🏳️ WLUnlocker Германия | #13
