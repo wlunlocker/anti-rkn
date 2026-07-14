@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 14.07.06
+# last-update: 14.07.09
 # count: 173
 vless://5117ad77-cd9a-46e9-995b-b601b0b5e435@109.69.218.169:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&sni=cdn-s3.opengate.su#🇧🇪 🏴 WLUnlocker Бельгия | #1
 vless://01dfcada-2cef-4b85-86f2-7183df189918@199.181.197.73:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&fp=android&type=ws&allowInsecure=0&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev#🇨🇦 🏴 WLUnlocker Канада | #2
