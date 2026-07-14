@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 14.07.19
+# last-update: 14.07.21
 # count: 56
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&headerType=http&type=tcp#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=/?BIA_TELEGRAM@YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=http&type=tcp#🇳🇱 🏴 WLUnlocker Нидерланды | #2
