@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 15.07.16
+# last-update: 15.07.18
 # count: 148
 vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&security=reality&sni=ee-hs-1.minzt.su&type=tcp#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ee-hs-1.minzt.su&fp=qq&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&flow=xtls-rprx-vision#🇪🇸 🏴 WLUnlocker Испания | #2
