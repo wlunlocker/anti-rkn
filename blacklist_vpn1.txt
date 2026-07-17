@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 17.07.03
+# last-update: 17.07.06
 # count: 142
 vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@cz.srv.anti-zapret.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=cz.srv.anti-zapret.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&fp=firefox#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?&security=reality&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=firefox&sni=auto.quattro-tech.ru&type=tcp&headerType=none&host=auto.quattro-tech.ru&path=%2F#🇪🇸 🏴 WLUnlocker Испания | #2
