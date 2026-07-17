@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 17.07.21
+# last-update: 17.07.22
 # count: 94
 vless://16b0d274-3532-4062-9c5b-9f8e4bf176c2@fi.libertynet.pro:8443?type=grpc&security=tls&fp=random&sni=fi.libertynet.pro&serviceName=fi-grpc#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://86393235-4d4a-4fd8-a1de-40b835d71ce4@finland.spectrum.vu:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=finland.spectrum.vu&fp=qq&pbk=7naINgyna0nJ73fMHGStdajWwIrsBk7pxgTKG7QerwY&sid=c8d3e5f1a9b2#🇳🇱 🏴 WLUnlocker Нидерланды | #2
