@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 17.07.09
+# last-update: 17.07.11
 # count: 141
 vless://aa41a66a-69c3-48c1-a71e-f2d8e153f14b@free-bg.geodema.network:443?flow=xtls-rprx-vision&sni=www.btv.bg&security=reality&type=tcp&sid=1ed136481e0ede74&encryption=none&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&fp=firefox#🇫🇮 🏴 WLUnlocker Финляндия | #1
 vless://a956a597-28d9-475c-86c8-664ca9577f0d@31.56.187.47:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=scNn8MoJJIeabN5MkjwxmOXE3DdOyl2HJqzct3RsLyY&security=reality&sid=1e85a6f4a565e7e7&sni=ndee.whit3.net&type=tcp#🇪🇸 🏴 WLUnlocker Испания | #2
