@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 18.07.17
+# last-update: 18.07.19
 # count: 190
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@zaplio-gook.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zaplio-gook.ru&fp=firefox&pbk=qm-zp2dNT8dDO9KWbfQrxN3IKT0JlNZkWT53aaCKfxM&sid=d9662905&type=tcp&headerType=none#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://1badd6a3-735b-45fa-bf30-7ee42abcfefe@de5fra.s812331.shop:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de5fra.s812331.shop&fp=qq&pbk=2XTPvkK41t8x8qQfYxETMWtFVf5w4jW3-RbXb997x3k&sid=5b591e78b15610f7#🇫🇷 🏴 WLUnlocker Франция | #2
