@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 18.07.09
+# last-update: 18.07.11
 # count: 174
 vless://bd99da97-265e-0021-82cc-4ec009fe9ce2@fl.musicperec.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&sni=www.amd.com&spx=/#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://f422e914-ba20-4855-9441-c044d3f2f6e1@fr.air-vpn.lol:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zs5xK4NQhoX8YvTVq8NdHaNfYsZwk7BmdwiPR7Tr-SU&sid=253e04ed191c76b9&sni=fr.air-vpn.lol#🇫🇷 🏴 WLUnlocker Франция | #2
