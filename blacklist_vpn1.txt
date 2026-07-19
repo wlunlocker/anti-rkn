@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 19.07.22
+# last-update: 19.07.23
 # count: 176
 vless://53f6fdff-77e4-42a2-9acc-74bd99b6937b@dgm.maxg.ch:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dgm.maxg.ch&fp=qq&pbk=Lw-JJ9b9q-y3PiPYqGP7Dtb_kB5dTP8OkKrQgsoAHl8&sid=d85e11d9b1a1aa3c#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@167.82.75.226:80?encryption=none&security=none&type=xhttp&host=lowtechdevelopersltd.co.uk&path=%2Fvideo%3Fed%3D1024&mode=auto#🇧🇪 🏴 WLUnlocker Бельгия | #2
