@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 19.07.08
+# last-update: 19.07.10
 # count: 174
 vless://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.59.193:2053?&security=tls&fp=chrome&sni=vp9.cc.cd&type=ws&headerType=none&host=vp9.cc.cd&path=%2F#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@104.129.167.20:443?&security=tls&fp=chrome&sni=cf11.evan00.dpdns.org&type=ws&headerType=none&host=cf11.evan00.dpdns.org&path=/Telegram🇨🇳#🇨🇦 🏴 WLUnlocker Канада | #2
