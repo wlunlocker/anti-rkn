@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 19.07.02
+# last-update: 19.07.05
 # count: 170
 vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?encryption=none&security=tls&type=ws&host=2.fognet.ru&path=/fog&packetEncoding=xudp#🇦🇹 🏴 WLUnlocker Австрия | #1
 vless://663cf772-829c-4bc6-893d-b7d021d42f5b@188.164.248.38:2083?&security=tls&fp=chrome&sni=vp4.cc.cd&type=ws&headerType=none&host=vp4.cc.cd&path=%2F#🇨🇦 🏴 WLUnlocker Канада | #2
