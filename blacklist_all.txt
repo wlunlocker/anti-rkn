@@ -1,6 +1,6 @@
 # profile-title: 🌐🏴VPN - ВСЕ СЕРВЕРА
 # profile-update-interval: 1
-# last-update: 21.07.21
+# last-update: 21.07.23
 # кол-во: 2544
 vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@at-google.mobileemdad.top:443?encryption=none&type=raw&security=reality&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#🇦🇹 🏴 WLUnlocker Австрия | #1
 vless://c416332e-2bde-4806-ac02-8f021c6e8f68@www.visa.com.br:2087?host=bbc.zjxc.de5.net&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&security=tls&sni=bbc.zjxc.de5.net&type=ws#🇧🇷 🏴 WLUnlocker Бразилия | #1
