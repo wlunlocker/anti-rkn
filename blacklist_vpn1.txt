@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 22.07.15
+# last-update: 22.07.17
 # count: 59
 vless://6db6b948-655f-4f68-a9e7-865050e05b31@free-exp.kyras.pw:443?flow=&type=xhttp&host=free-exp.kyras.pw&path=/dashboard/&mode=packet-up&security=tls&sni=free-exp.kyras.pw&alpn=http/1.1,h2&fp=firefox&allowInsecure=0&echfq=none#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@f2.steptofsvo.com:443?&security=reality&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=randomized&sni=f2.steptofsvo.com&type=tcp&headerType=none&host=f2.steptofsvo.com&path=%2F#🇳🇱 🏴 WLUnlocker Нидерланды | #2
