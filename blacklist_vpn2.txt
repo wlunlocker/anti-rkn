@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 23.07.17
+# last-update: 23.07.19
 # count: 199
 hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?allowInsecure=0&insecure=0&sni=fr2.h2corp.org#🇫🇷 🏳️ WLUnlocker Франция | #1
 hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?sni=grape-sos-de.roxa.org#🇩🇪 🏳️ WLUnlocker Германия | #2
