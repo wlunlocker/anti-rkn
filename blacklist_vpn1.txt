@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 23.07.22
+# last-update: 24.07.00
 # count: 35
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@ice.noooo.win:443?security=reality&type=xhttp&headerType=&path=&host=&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&sni=sentry.allepal.ee&fp=firefox&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=a3f9c2d4e8b1a7c6#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?type=xhttp&security=tls&fp=chrome&sni=GERMAN.sarzamiiinahang.ir&path=/Meh?di=443&mode=auto#🇫🇷 🏴 WLUnlocker Франция | #2
