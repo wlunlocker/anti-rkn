@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 24.07.12
+# last-update: 24.07.14
 # count: 54
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@cur03.myxasecure.space:443?type=tcp&security=reality&sni=cur03.myxasecure.space&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&fp=edge&encryption=none&flow=xtls-rprx-vision#🇺🇸 🏴 WLUnlocker США | #1
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@165.231.157.109:443?&security=tls&fp=chrome&sni=app-6a607097.adhil.uk&type=xhttp#🇪🇸 🏴 WLUnlocker Испания | #2
