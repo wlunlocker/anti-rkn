@@ -1,6 +1,6 @@
 # profile-title: 🌐🏴VPN - ВСЕ СЕРВЕРА
 # profile-update-interval: 1
-# last-update: 24.07.06
+# last-update: 24.07.09
 # кол-во: 2765
 vless://112a40cd-a9b2-46e1-8904-e46ba5b01f17@at-play.montago-shop.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=f88610dd#🇦🇹 🏴 WLUnlocker Австрия | #1
 vless://4f5a379d-45e5-49e3-9f0e-d1303ddc9628@at-google.mobileemdad.top:443?encryption=none&type=raw&security=reality&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd#🇦🇹 🏴 WLUnlocker Австрия | #2
