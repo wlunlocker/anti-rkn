@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 24.07.17
+# last-update: 24.07.19
 # count: 190
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?sni=bing.com&insecure=1#🇫🇷 🏳️ WLUnlocker Франция | #1
 hysteria2://ad790e5f-3e31-43c6-b047-336577a3b3de@hhfinn.ietotozheproidet.site:443/?sni=hhfinn.ietotozheproidet.site&fm=%7B%22quicParams%22%3A%7B%22debug%22%3Afalse%2C%22congestion%22%3A%22bbr%22%2C%22maxIdleTimeout%22%3A60%2C%22keepAlivePeriod%22%3A15%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%2C%22disablePathMTUDiscovery%22%3Atrue%2C%22initStreamReceiveWindow%22%3A8388608%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22initConnectionReceiveWindow%22%3A20971520%7D%7D#🇺🇸 🏳️ WLUnlocker США | #2
