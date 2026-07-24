@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 24.07.20
+# last-update: 24.07.22
 # count: 175
 vless://93d4c369-3d17-430c-bbe4-cf0e9465e4ed@cdn.fonix1.com:2096?path=%2F&security=tls&encryption=none&insecure=0&host=au.chrrt.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=au.chrrt.shop#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@165.231.157.109:443?encryption=none&extra=null&fp=chrome&mode=stream-one&path=/&security=tls&sni=app-6a607097.adhil.uk&type=xhttp#🇪🇸 🏴 WLUnlocker Испания | #2
