@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 25.07.06
+# last-update: 25.07.08
 # count: 197
 hysteria2://440f3c08-7599-406e-8ba3-7dbc6324c5ed@ee.riotvpn.eu:4443?headerType=none&encryption=none&sni=static.vkimages.io&insecure=0#🇩🇪 🏳️ WLUnlocker Германия | #1
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?headerType=none&encryption=none&sni=fi-one.quiet-rogue.site&insecure=0#🇩🇪 🏳️ WLUnlocker Германия | #2
