@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 25.07.09
+# last-update: 25.07.11
 # count: 82
 vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@fn.fifapes.monster:2090?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#🇳🇱 🏴 WLUnlocker Нидерланды | #2
