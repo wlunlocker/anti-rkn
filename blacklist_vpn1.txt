@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 25.07.00
+# last-update: 25.07.04
 # count: 72
 vless://ad790e5f-3e31-43c6-b047-336577a3b3de@sfo.kooleknetwork.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=inkvLvTWXaBAAubrTpivxrJAWPYldv2rBG25zzCd6k0&sni=dowload.max.ru&fp=chrome#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://ad790e5f-3e31-43c6-b047-336577a3b3de@sfo.kooleknetwork.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=inkvLvTWXaBAAubrTpivxrJAWPYldv2rBG25zzCd6k0&sni=dowload.max.ru&fp=qq#🇨🇦 🏴 WLUnlocker Канада | #2
