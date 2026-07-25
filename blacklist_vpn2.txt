@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 25.07.16
+# last-update: 25.07.17
 # count: 196
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?headerType=none&encryption=none&sni=fi-one.quiet-rogue.site&insecure=0#🇩🇪 🏳️ WLUnlocker Германия | #1
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443/?sni=mercedes-grape.yyuyy.com#🇩🇪 🏳️ WLUnlocker Германия | #2
