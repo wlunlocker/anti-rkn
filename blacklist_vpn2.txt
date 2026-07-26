@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 26.07.17
+# last-update: 26.07.19
 # count: 198
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPM3NuZnJ4WWpnTkszVlpHNEZhamt3@trollhastambotrvg-production-a62f.up.railway.app:443?plugin=v2ray-plugin%3Bhost%3Dtrollhastambotrvg-production-a62f.up.railway.app%3Bpath%3D%2Fss-ws%3Btls%3Bmux%3D0#🇨🇭 🏳️ WLUnlocker Швейцария | #1
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?headerType=none&encryption=none&sni=fi-one.quiet-rogue.site&insecure=0#🇩🇪 🏳️ WLUnlocker Германия | #2
