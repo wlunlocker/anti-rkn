@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 26.07.13
+# last-update: 26.07.15
 # count: 78
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@46.8.113.190:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&alpn=http/1.1&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&packetEncoding=xudp#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@st01.auragg.org:25311?encryption=none&type=grpc&security=reality&sni=cloudflare.com&fp=qq&pbk=HLXkRdO5mG922Ohb41SkRglI-aec3enQzilWZqO4-Us&sid=e7c3f9a2b6d4f8e1&path=auragrpc&serviceName=auragrpc&mode=gun&multiMode=false#🇪🇸 🏴 WLUnlocker Испания | #2
