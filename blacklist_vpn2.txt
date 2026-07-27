@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 27.07.17
+# last-update: 27.07.19
 # count: 198
 ss://YWVzLTEyOC1nY206UUhQeTJ1@260323.1.0.l2.unclemanco.com:9044?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D94aaf10040.download.windowsupdate.com#🇺🇸 🏳️ WLUnlocker США | #1
 ss://YWVzLTEyOC1nY206YXl1Y2V3Mg@260323.1.0.l3.unclemanco.com:9001?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D94aaf10040.download.windowsupdate.com#🇳🇱 🏳️ WLUnlocker Нидерланды | #2
@@ -57,21 +57,21 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.25.8.186:50099#🇩🇪 🏳️ WLUnlocker Германия | #54
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@114.25.8.198:50099#🇩🇪 🏳️ WLUnlocker Германия | #55
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.142.78:50099#🇩🇪 🏳️ WLUnlocker Германия | #56
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.24.154:50099#🇩🇪 🏳️ WLUnlocker Германия | #57
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.34.200:50099#🇩🇪 🏳️ WLUnlocker Германия | #58
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇩🇪 🏳️ WLUnlocker Германия | #59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.25.8.182:50099#🇩🇪 🏳️ WLUnlocker Германия | #60
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRANjEuMjMxLjI1LjE3Mjo1MDA5OQ==#🇩🇪 🏳️ WLUnlocker Германия | #61
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowR0FLMmI5Z2txQmF0dXhpMmNzd21I@83.217.9.17:25232#🇦🇹 🏳️ WLUnlocker Австрия | #62
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdTQ3eEp2cDJfcEdiQTVjMTNBU0hLODdEeER3azV6bQ==@coco1.farajet.net:1010#🇩🇪 🏳️ WLUnlocker Германия | #63
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM1hvTlJUaVZUT3NBelhPVlBQMDA4@194.87.45.189:443#🇪🇸 🏳️ WLUnlocker Испания | #64
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#🇩🇪 🏳️ WLUnlocker Германия | #65
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxbUl6REx3ZHllSG5WRmtCRDBvODBE@194.87.45.189:443#🇸🇬 🏳️ WLUnlocker Сингапур | #66
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0QDE1Ny4yMi4yNDAuMTQxOjU3OTI1#🇩🇪 🏳️ WLUnlocker Германия | #67
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZ1FnNE9XSzZoUDVYNjQwY01SQlp6@194.87.45.189:443#🇪🇸 🏳️ WLUnlocker Испания | #68
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aGE3aW5hN3dzMXdzNnl4@batman4.kovira2.ir:25026#🇳🇱 🏳️ WLUnlocker Нидерланды | #69
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA%3D%3D@194.164.92.198:1234#🇸🇬 🏳️ WLUnlocker Сингапур | #70
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA==@68.168.222.210:1234?#🇺🇸 🏳️ WLUnlocker США | #71
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.142.91:50099#🇩🇪 🏳️ WLUnlocker Германия | #57
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.24.154:50099#🇩🇪 🏳️ WLUnlocker Германия | #58
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.34.200:50099#🇩🇪 🏳️ WLUnlocker Германия | #59
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#🇩🇪 🏳️ WLUnlocker Германия | #60
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@114.25.8.182:50099#🇩🇪 🏳️ WLUnlocker Германия | #61
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzRANjEuMjMxLjI1LjE3Mjo1MDA5OQ==#🇩🇪 🏳️ WLUnlocker Германия | #62
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowR0FLMmI5Z2txQmF0dXhpMmNzd21I@83.217.9.17:25232#🇦🇹 🏳️ WLUnlocker Австрия | #63
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdTQ3eEp2cDJfcEdiQTVjMTNBU0hLODdEeER3azV6bQ==@coco1.farajet.net:1010#🇩🇪 🏳️ WLUnlocker Германия | #64
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM1hvTlJUaVZUT3NBelhPVlBQMDA4@194.87.45.189:443#🇪🇸 🏳️ WLUnlocker Испания | #65
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#🇩🇪 🏳️ WLUnlocker Германия | #66
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxbUl6REx3ZHllSG5WRmtCRDBvODBE@194.87.45.189:443#🇸🇬 🏳️ WLUnlocker Сингапур | #67
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSkI5MWw1b2wySHZrUFVkdXcyaGo0QDE1Ny4yMi4yNDAuMTQxOjU3OTI1#🇩🇪 🏳️ WLUnlocker Германия | #68
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZ1FnNE9XSzZoUDVYNjQwY01SQlp6@194.87.45.189:443#🇪🇸 🏳️ WLUnlocker Испания | #69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aGE3aW5hN3dzMXdzNnl4@batman4.kovira2.ir:25026#🇳🇱 🏳️ WLUnlocker Нидерланды | #70
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA%3D%3D@194.164.92.198:1234#🇸🇬 🏳️ WLUnlocker Сингапур | #71
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDN3lqRlUwUkx1UDBKNnhmMzlqMG1q@194.87.45.189:443#🇪🇸 🏳️ WLUnlocker Испания | #72
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ%3D@108.181.126.122:8388#🇳🇱 🏳️ WLUnlocker Нидерланды | #73
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWRAMTA4LjE4MS41OC4yMzk6ODM4OA==#🇳🇱 🏳️ WLUnlocker Нидерланды | #74
