@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 28.07.03
+# last-update: 28.07.06
 # count: 198
 hysteria2://00c0c6fc-2958-4395-91c3-7e61422f671f@svetzen.nksconnect.xyz:8443?sni=svetzen.nksconnect.xyz&insecure=0&allowInsecure=0#🇳🇱 🏳️ WLUnlocker Нидерланды | #1
 hysteria2://1f29762d-3f23-4207-9e39-f774de5d49ba@h1-fi.arpozan.cloud:443?sni=h1-fi.arpozan.cloud&security=tls#🇩🇪 🏳️ WLUnlocker Германия | #2
