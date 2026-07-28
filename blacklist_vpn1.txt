@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 27.07.22
+# last-update: 28.07.00
 # count: 121
 vless://5d680dcf-88a5-4ea4-b799-0a12ef2c0dfd@ee1.samovargate.com:443?&security=reality&flow=xtls-rprx-vision&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&sid=f04729f65b9ea261&fp=firefox&sni=ee1.samovargate.com&type=tcp&headerType=none&host=ee1.samovargate.com&path=%2F#🇺🇸 🏴 WLUnlocker США | #1
 vless://5d680dcf-88a5-4ea4-b799-0a12ef2c0dfd@ee1.samovargate.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ee1.samovargate.com&fp=firefox&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&sid=f04729f65b9ea261&flow=xtls-rprx-vision#🇺🇸 🏴 WLUnlocker США | #2
