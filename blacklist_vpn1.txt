@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 29.07.22
+# last-update: 29.07.23
 # count: 135
 vless://c7e9c591-2764-423a-afca-efbd010fd396@89.111.172.106:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&type=ws&host=forfreeuse.sub-flow.online&path=%2F&allowInsecure=0&insecure=0&fp=chrome#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.159:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇳🇱 🏴 WLUnlocker Нидерланды | #2
