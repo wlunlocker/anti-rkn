@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 30.07.19
+# last-update: 30.07.21
 # count: 200
 hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443/?sni=azer-tea-grape.bumbleshrimp.com#🇪🇸 🏳️ WLUnlocker Испания | #1
 hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443?security=tls&alpn=h3&insecure=0&sni=azer-tea-grape.bumbleshrimp.com#🇸🇪 🏳️ WLUnlocker Швеция | #2
