@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 30.07.11
+# last-update: 30.07.14
 # count: 118
 vless://6af3672b-8994-4cf1-aa15-23ce6574ebf0@st01.auragg.org:25311?encryption=none&type=grpc&security=reality&sni=cloudflare.com&fp=qq&pbk=HLXkRdO5mG922Ohb41SkRglI-aec3enQzilWZqO4-Us&sid=e7c3f9a2b6d4f8e1&path=auragrpc&serviceName=auragrpc&mode=gun&multiMode=false#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://6af3672b-8994-4cf1-aa15-23ce6574ebf0@st01.auragg.org:25311?type=grpc&headerType=none&security=reality&encryption=none&sni=cloudflare.com&fp=qq&pbk=HLXkRdO5mG922Ohb41SkRglI-aec3enQzilWZqO4-Us&sid=e7c3f9a2b6d4f8e1&serviceName=auragrpc#🇪🇸 🏴 WLUnlocker Испания | #2
