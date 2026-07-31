@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 31.07.12
+# last-update: 31.07.15
 # count: 141
 vless://87e1a37a-bca1-4e03-8e7f-20bf6483ede4@netherlands1.banovano.space:30548?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=uR9LN49jpOfUDFfcKOPVgSMlKK68hgm_HYMXHzbkyRE&sid=b7f169ff615f569e&sni=www.nvidia.com&spx=/#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@147.45.197.233:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇳🇱 🏴 WLUnlocker Нидерланды | #2
