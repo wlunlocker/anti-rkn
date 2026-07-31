@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 30.07.22
+# last-update: 31.07.00
 # count: 120
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?security=tls&type=ws&path=/&host=ad-013.pixel9xdmq.info&sni=ad-013.pixel9xdmq.info&fp=chrome&encryption=none#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://6af3672b-8994-4cf1-aa15-23ce6574ebf0@94.183.170.104:25311?encryption=none&fp=qq&mode=gun&pbk=HLXkRdO5mG922Ohb41SkRglI-aec3enQzilWZqO4-Us&security=reality&serviceName=auragrpc&sid=e7c3f9a2b6d4f8e1&sni=cloudflare.com&type=grpc#🇪🇸 🏴 WLUnlocker Испания | #2
