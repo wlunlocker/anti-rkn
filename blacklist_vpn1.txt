@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 31.07.21
+# last-update: 31.07.23
 # count: 119
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@103.161.237.54:443?security=tls&type=ws&path=%2Fapi%2Fv1%2Firc&host=vod.ensf.top&packetEncoding=xudp&alpn=http%2F1.1&sni=vod.ensf.top&encryption=none&fp=chrome#🇺🇸 🏴 WLUnlocker США | #1
 vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@103.161.237.54:443?security=tls&type=ws&path=%2Fapi%2Fv1%2Firc&host=vod.ensf.top&packetEncoding=xudp&alpn=http%2F1.1&sni=vod.ensf.top&encryption=none&fp=qq#🇺🇸 🏴 WLUnlocker США | #2
