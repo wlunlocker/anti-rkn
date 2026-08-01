@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 01.08.10
+# last-update: 01.08.12
 # count: 116
 vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@45.131.215.61:52315?&type=ws&headerType=none&path=%2F#🇺🇸 🏴 WLUnlocker США | #1
 vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-013.fluxmxd18.info&sni=ad-013.fluxmxd18.info&fp=firefox#🇨🇦 🏴 WLUnlocker Канада | #2
