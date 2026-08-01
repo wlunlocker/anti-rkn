@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 01.08.20
+# last-update: 01.08.21
 # count: 108
 vless://978170a3-723c-4284-ba9e-108a12586b90@sof.edgeptr.org:443?flow=xtls-rprx-vision&headerType=&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&encryption=none&sni=www.lovelive-anime.jp&security=reality&type=tcp&sid=0a1b2c3d4e5f6071&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83224&fp=chrome#🇫🇮 🏴 WLUnlocker Финляндия | #1
 vless://978170a3-723c-4284-ba9e-108a12586b90@sof.edgeptr.org:443?flow=xtls-rprx-vision&headerType=&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&encryption=none&sni=www.lovelive-anime.jp&security=reality&type=tcp&sid=0a1b2c3d4e5f6071&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83224&fp=qq#🇫🇮 🏴 WLUnlocker Финляндия | #2
