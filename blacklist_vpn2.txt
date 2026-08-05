@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 05.08.03
+# last-update: 05.08.06
 # count: 200
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#🇳🇱 🏳️ WLUnlocker Нидерланды | #1
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?security=tls&insecure=0#🇳🇱 🏳️ WLUnlocker Нидерланды | #2
