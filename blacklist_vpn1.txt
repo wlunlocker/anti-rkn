@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 05.08.19
+# last-update: 05.08.21
 # count: 103
 vless://87d2ab46-0575-42e7-8bf8-4d8b0cb484f0@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#🇩🇪 🏴 WLUnlocker Германия | #1
 vless://95f50108-2bae-4634-948c-b22e01ae3133@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#🇩🇪 🏴 WLUnlocker Германия | #2
