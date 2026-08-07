@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 07.08.03
+# last-update: 07.08.05
 # count: 84
 vless://50414e45-4c5f-5a45-5553-b52a90ada6ab@80.93.202.147:443?encryption=none&security=tls&sni=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&path=%2Fstream%2FTrexBridge%2Fb52a90ada6ab#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://8728958d-cd6a-443f-bf6d-d13f25dc073b@65.49.234.130:29898?security=none&encryption=none&headerType=none&type=tcp#🇨🇦 🏴 WLUnlocker Канада | #2
