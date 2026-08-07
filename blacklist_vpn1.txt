@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 07.08.11
+# last-update: 07.08.13
 # count: 45
 vless://b80708a5-90f0-4d02-bcaf-69936cbd15b3@38.180.218.105:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&pbk=Uaq2YojNeUXGkaCPKxcR_IF9iaatuc3srHfFuwwG7FA&sid=a19516e2d20b09e9&fp=chrome#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://b80708a5-90f0-4d02-bcaf-69936cbd15b3@38.180.218.105:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=github.com&pbk=Uaq2YojNeUXGkaCPKxcR_IF9iaatuc3srHfFuwwG7FA&sid=a19516e2d20b09e9&fp=qq#🇫🇷 🏴 WLUnlocker Франция | #2
