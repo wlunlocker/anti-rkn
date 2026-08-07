@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 07.08.22
+# last-update: 07.08.23
 # count: 57
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@fn.cryptoofarm.com:2053?encryption=none&security=reality&sni=fn.cryptoofarm.com&pbk=qEemc5mnxCg4kPBK-AiuzKzPYBqbxA62d7-ln7yZVkw&sid=b599bdfa99d1b7&spx=%2F&type=grpc&authority=grpc-ux-d5f9v2c7nq&serviceName=fn.cryptoofarm.com&mode=gun&fp=chrome#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@fn.cryptoofarm.com:2053?encryption=none&security=reality&sni=fn.cryptoofarm.com&pbk=qEemc5mnxCg4kPBK-AiuzKzPYBqbxA62d7-ln7yZVkw&sid=b599bdfa99d1b7&spx=%2F&type=grpc&authority=grpc-ux-d5f9v2c7nq&serviceName=fn.cryptoofarm.com&mode=gun&fp=firefox#🇪🇸 🏴 WLUnlocker Испания | #2
