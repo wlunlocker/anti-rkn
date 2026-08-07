@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 07.08.18
+# last-update: 07.08.19
 # count: 15
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&mode=gun&security=none&serviceName=grpc&type=grpc#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@it1-akn.astralweb.tech:443?type=tcp&security=tls&encryption=none&sni=it1-akn.astralweb.tech&fp=chrome#🇮🇹 🏴 WLUnlocker Италия | #2
