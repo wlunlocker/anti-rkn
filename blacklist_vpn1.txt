@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 08.08.11
+# last-update: 08.08.12
 # count: 107
 vless://8c7ac0ea-b1e4-4c20-bc16-1437559f3ac4@sa-6a09b2fc28430245.sr-badd9c9ab2e12bda.r.vpvpn.club:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=api-v1-6a761d45.alpheratzz.org#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://f692629b-3557-488a-9c9b-60775331e423@31.56.176.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=fi1-cosmostechnology.ru&type=tcp#🇫🇷 🏴 WLUnlocker Франция | #2
