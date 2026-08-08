@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 08.08.06
+# last-update: 08.08.07
 # count: 154
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.224.3:8443?encryption=none&mode=gun&security=none&serviceName=grpc&type=grpc#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://a8178248-3cdf-4fb0-ab7b-87c1ab77201c@8.47.69.0:8880?&type=ws&headerType=none&host=cnd.france2.gg.newwaycdn.com&path=/cdn/assets/stream#🇫🇷 🏴 WLUnlocker Франция | #2
