@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 09.08.09
+# last-update: 09.08.10
 # count: 120
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.206:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=kind-wolf.cdn.cachefleet.com&fp=random&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU#🇧🇪 🏴 WLUnlocker Бельгия | #1
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.208:443?&security=reality&flow=xtls-rprx-vision&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&fp=randomized&sni=kind-wolf.cdn.cachefleet.com&type=tcp&headerType=none&host=kind-wolf.cdn.cachefleet.com&path=%2F#🇧🇪 🏴 WLUnlocker Бельгия | #2
