@@ -1,6 +1,6 @@
 # profile-title: 🌐🏴VPN - ВСЕ СЕРВЕРА
 # profile-update-interval: 1
-# last-update: 09.08.18
+# last-update: 09.08.19
 # кол-во: 2637
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@67.159.17.223:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ukD87Vk-vZlpFizTh-zSjst2lEN39Cfyjd4mNiu2CS0&sid=825d392c67e4&sni=au.musicwave.net#🇦🇺 🏴 WLUnlocker Австралия | #1
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@au.musicwave.net:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=au.musicwave.net&fp=firefox&pbk=ukD87Vk-vZlpFizTh-zSjst2lEN39Cfyjd4mNiu2CS0&sid=825d392c67e4&spx=/#🇦🇺 🏴 WLUnlocker Австралия | #2
