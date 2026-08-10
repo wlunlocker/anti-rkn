@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 10.08.19
+# last-update: 10.08.20
 # count: 34
 vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.207:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=crisp-titan.cdn.cachefleet.com&fp=random&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU#🇧🇪 🏴 WLUnlocker Бельгия | #1
 vless://db9a9b0f-fd4c-404b-9437-16e567544665@195.133.35.75:1337?encryption=none&flow=xtls-rprx-vision&pbk=8ik0rnxTlrrGfJaQnmLnUXpY0DSm_xohbJGvmfrbMSA&security=reality&sid=459193ba&sni=czh.xanka.best&type=tcp&fp=qq#🇨🇭 🏴 WLUnlocker Швейцария | #2
