@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 11.08.08
+# last-update: 11.08.10
 # count: 86
 vless://7fa91a52-54d0-442f-b550-cf83d916918c@edge-bg-sof.cdn.sx:2083?encryption=none&security=tls&fp=firefox&packetEncoding=xudp#🇫🇮 🏴 WLUnlocker Финляндия | #1
 vless://eac6ea16-8963-4948-8ba8-0dd3bab4773e@ru-storage3-sync.tainet.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-storage3-sync.tainet.space&fp=firefox&pbk=zPhyVlDaPdmwg1lAQvbfoJKxQwcea0gPQvAxNhU6wm4&sid=b6ff5a25b94803d8&type=tcp&headerType=none#🇩🇪 🏴 WLUnlocker Германия | #2
