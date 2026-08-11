@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 11.08.13
+# last-update: 11.08.14
 # count: 91
 vless://8033102198@217.60.68.52:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de4.fast-connect-service.site&type=tcp&fp=android#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://8033102198@217.60.68.52:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de4.fast-connect-service.site&type=tcp&fp=chrome#🇫🇷 🏴 WLUnlocker Франция | #2
