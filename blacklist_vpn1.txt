@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 11.08.20
+# last-update: 11.08.21
 # count: 75
 vless://8fab26eb-f2eb-4c10-a11d-f7e5202930e4@134.17.16.156:443?security=reality&encryption=none&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&type=grpc&serviceName=webhook&sni=ads.x5.ru&sid=91d568bc3b&fp=chrome#🇺🇸 🏴 WLUnlocker США | #1
 vless://8fab26eb-f2eb-4c10-a11d-f7e5202930e4@134.17.16.156:443?security=reality&encryption=none&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&type=grpc&serviceName=webhook&sni=ads.x5.ru&sid=91d568bc3b&fp=firefox#🇺🇸 🏴 WLUnlocker США | #2
