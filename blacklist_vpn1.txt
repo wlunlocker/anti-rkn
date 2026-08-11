@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 10.08.23
+# last-update: 11.08.01
 # count: 98
 vless://db9a9b0f-fd4c-404b-9437-16e567544665@195.133.35.75:1337?encryption=none&flow=xtls-rprx-vision&pbk=8ik0rnxTlrrGfJaQnmLnUXpY0DSm_xohbJGvmfrbMSA&security=reality&sid=459193ba&sni=czh.xanka.best&type=tcp&fp=safari#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://db9a9b0f-fd4c-404b-9437-16e567544665@yt.czh.xanka.best:1337?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=czh.xanka.best&pbk=8ik0rnxTlrrGfJaQnmLnUXpY0DSm_xohbJGvmfrbMSA&sid=459193ba&fp=firefox&alpn=http%2F1.1#🇨🇭 🏴 WLUnlocker Швейцария | #2
