@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 12.08.10
+# last-update: 12.08.11
 # count: 112
 vless://16a1eeb0-8408-4592-a469-ecd33751021e@refraction.chelyabinskdev.com:443?security=tls&encryption=none&sni=refraction.chelyabinskdev.com&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://16a1eeb0-8408-4592-a469-ecd33751021e@refraction.chelyabinskdev.com:443?security=tls&encryption=none&sni=refraction.chelyabinskdev.com&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=firefox#🇳🇱 🏴 WLUnlocker Нидерланды | #2
