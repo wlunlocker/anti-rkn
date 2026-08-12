@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 12.08.20
+# last-update: 12.08.21
 # count: 200
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443?allowInsecure=1&downmbps=50&insecure=1&type=tcp&upmbps=10&sni=speedtest.tinkoff.ru#🇨🇦 🏳️ WLUnlocker Канада | #1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦 🏳️ WLUnlocker Канада | #2
