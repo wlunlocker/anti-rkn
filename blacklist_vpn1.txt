@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 12.08.01
+# last-update: 12.08.04
 # count: 100
 vless://52bc7468-0c2f-4e9d-bdfa-e266242ab44b@193.37.213.44:443?encryption=none&type=tcp&security=reality&headerType=none&fp=firefox&insecure=1&allowInsecure=1&pbk=fu-_qH499aSXYcsyiJIUf9o28LYahPCIFyRHrLWuCDI&sid=0a077a46#🇫🇮 🏴 WLUnlocker Финляндия | #1
 vless://52bc7468-0c2f-4e9d-bdfa-e266242ab44b@193.37.213.44:443?security=reality&encryption=none&pbk=fu-_qH499aSXYcsyiJIUf9o28LYahPCIFyRHrLWuCDI&headerType=none&type=tcp&sid=0a077a46&fp=safari#🇫🇮 🏴 WLUnlocker Финляндия | #2
