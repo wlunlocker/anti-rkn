@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 12.08.19
+# last-update: 12.08.20
 # count: 86
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@8.6.112.6:2053?encryption=none&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws&fp=chrome#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@8.6.112.6:2053?encryption=none&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=ov.iran-servers.shop&type=ws&fp=firefox#🇫🇷 🏴 WLUnlocker Франция | #2
