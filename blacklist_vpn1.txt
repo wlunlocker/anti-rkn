@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 13.08.14
+# last-update: 13.08.16
 # count: 110
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@38.49.208.29:443?encryption=none&flow=xtls-rprx-vision&pbk=N1KH15LltY-On3flp6KhR0VOouBqNrcFNktOnptsOTs&security=reality&sid=9c2378562188c3cb&sni=fqub.falsemirrov.com&type=tcp&fp=edge#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@38.49.208.29:443?encryption=none&flow=xtls-rprx-vision&pbk=N1KH15LltY-On3flp6KhR0VOouBqNrcFNktOnptsOTs&security=reality&sid=9c2378562188c3cb&sni=fqub.falsemirrov.com&type=tcp&fp=firefox#🇨🇦 🏴 WLUnlocker Канада | #2
