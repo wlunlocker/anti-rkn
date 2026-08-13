@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 12.08.23
+# last-update: 13.08.01
 # count: 85
 vless://1c2a94fa-8329-4ff5-b351-25e197acd836@46.28.234.72:443?type=xhttp&security=tls&sni=145.baklajann.ru&mode=packet-up&fragment=3%2C1%2Ctlshello&fp=chrome#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://1c2a94fa-8329-4ff5-b351-25e197acd836@46.28.234.72:443?type=xhttp&security=tls&sni=145.baklajann.ru&mode=packet-up&fragment=3%2C1%2Ctlshello&fp=firefox#🇫🇷 🏴 WLUnlocker Франция | #2
