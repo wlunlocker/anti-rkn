@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 13.08.22
+# last-update: 13.08.23
 # count: 116
 vless://e2cd1f88-8582-4ab9-9497-de59de37b626@195.133.35.81:443?encryption=none&flow=xtls-rprx-vision&pbk=8R53x47787bPBVJnKyLkOhTztNW6djdTh0WEWph8710&security=reality&sid=7479&sni=www.amd.com&type=tcp&fp=chrome#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://e2cd1f88-8582-4ab9-9497-de59de37b626@195.133.35.81:443?encryption=none&flow=xtls-rprx-vision&pbk=8R53x47787bPBVJnKyLkOhTztNW6djdTh0WEWph8710&security=reality&sid=7479&sni=www.amd.com&type=tcp&fp=firefox#🇨🇭 🏴 WLUnlocker Швейцария | #2
@@ -116,4 +116,4 @@ vless://fc07967d-925b-4246-a535-9527a8242a16@217.198.169.86:443?type=xhttp&secur
 vless://fc07967d-925b-4246-a535-9527a8242a16@217.198.169.86:443?type=xhttp&security=reality&pbk=h5rOWssRWMnFJ0Ka0-PwBwwg3PMPifPShXutXEoj2QM&sid=b8ac5fcfceca&sni=avatars.mds.yandex.net&path=%2Fwk7Lj2YbQfCoLCnY5dZ3&extra=%7B%22headers%22%3A%7B%7D%7D&hiddify=1&core=xray&fp=edge#🇺🇸 🏴 WLUnlocker США | #113
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@8.6.112.6:2087?type=ws&security=tls&encryption=none&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&path=%2F%3Fed%3D2560&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=qq#🇨🇦 🏴 WLUnlocker Канада | #114
 vless://bee21918-0933-430c-904b-c941b92256ba@201.24.118.145:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#🇨🇦 🏴 WLUnlocker Канада | #115
-vless://4167d23f-bd37-468f-b84f-199d38b60592@91.193.58.13:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=test.989819.xyz&path=%2F%3FTelegram-WangCai2&security=tls&sni=test.989819.xyz&type=ws#🇨🇦 🏴 WLUnlocker Канада | #116
+vless://4167d23f-bd37-468f-b84f-199d38b60592@166.62.106.10:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=test.989819.xyz&path=%2F%3FTelegram-WangCai2&security=tls&sni=test.989819.xyz&type=ws#🇺🇸 🏴 WLUnlocker США | #116
