@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 13.08.04
+# last-update: 13.08.06
 # count: 123
 vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@fqub.falsemirrov.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fqub.falsemirrov.com&fp=firefox&pbk=N1KH15LltY-On3flp6KhR0VOouBqNrcFNktOnptsOTs&sid=9c2378562188c3cb&flow=xtls-rprx-vision#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://7170c66c-3c0b-4cd0-acbb-01774a6b7179@benz.ink:443?encryption=none&security=tls&sni=benz.ink&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=benz.ink&path=%2Fapi%2Fv2%2Fvms%2Fpartner%2Fsakura#🇪🇸 🏴 WLUnlocker Испания | #2
