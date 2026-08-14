@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 13.08.23
+# last-update: 14.08.01
 # count: 116
 vless://e2cd1f88-8582-4ab9-9497-de59de37b626@195.133.35.81:443?encryption=none&flow=xtls-rprx-vision&pbk=8R53x47787bPBVJnKyLkOhTztNW6djdTh0WEWph8710&security=reality&sid=7479&sni=www.amd.com&type=tcp&fp=chrome#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://e2cd1f88-8582-4ab9-9497-de59de37b626@195.133.35.81:443?encryption=none&flow=xtls-rprx-vision&pbk=8R53x47787bPBVJnKyLkOhTztNW6djdTh0WEWph8710&security=reality&sid=7479&sni=www.amd.com&type=tcp&fp=firefox#🇨🇭 🏴 WLUnlocker Швейцария | #2
