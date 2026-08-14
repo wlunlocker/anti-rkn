@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 14.08.04
+# last-update: 14.08.06
 # count: 111
 vless://3b9eb177-6f0c-4d49-be4a-7e5168569f45@pg-de-bot.gigatapbot.top:47822?security=reality&encryption=none&sni=pg-bot.gigatapbot.top&fp=firefox&pbk=VWhynxStqii0ll4ttnUJWG4Qy9dJFXhZu6Y8OiIO5Vk&sid=c577182abe08e64c&flow=xtls-rprx-vision#🇷🇺 🏴 WLUnlocker Россия | #1
 vless://3b9eb177-6f0c-4d49-be4a-7e5168569f45@pg-sp-bot.gigatapbot.top:47822?security=reality&encryption=none&sni=pg-bot.gigatapbot.top&fp=firefox&pbk=VWhynxStqii0ll4ttnUJWG4Qy9dJFXhZu6Y8OiIO5Vk&sid=c577182abe08e64c&flow=xtls-rprx-vision#🇨🇦 🏴 WLUnlocker Канада | #2
