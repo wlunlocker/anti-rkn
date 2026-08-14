@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 14.08.20
+# last-update: 14.08.21
 # count: 66
 vless://932a9656-d5ec-4ab0-a56e-4755f5420171@gg1.serviceoda.ru:8443?security=reality&encryption=none&pbk=Tl0GCbgfsNHxGGN0TzZt3_OFsPc4xe1kMkn_L3qwiS8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=3d8b549801de&fp=android#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://932a9656-d5ec-4ab0-a56e-4755f5420171@gg1.serviceoda.ru:8443?security=reality&encryption=none&pbk=Tl0GCbgfsNHxGGN0TzZt3_OFsPc4xe1kMkn_L3qwiS8&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=3d8b549801de&fp=chrome#🇫🇷 🏴 WLUnlocker Франция | #2
