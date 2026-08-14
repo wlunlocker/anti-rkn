@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 14.08.08
+# last-update: 14.08.10
 # count: 106
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@103.119.18.115:443?encryption=none&flow=xtls-rprx-vision&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&security=reality&sid=91a7a393d805f5c6&sni=ch1.murhost.network&type=tcp&fp=chrome#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@103.119.18.115:443?encryption=none&flow=xtls-rprx-vision&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&security=reality&sid=91a7a393d805f5c6&sni=ch1.murhost.network&type=tcp&fp=firefox#🇨🇭 🏴 WLUnlocker Швейцария | #2
