@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 14.08.16
+# last-update: 14.08.17
 # count: 23
 vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@k1.cloud--vpn.site:443?security=tls&type=ws&path=%2F&host=c12.com&packetEncoding=none&sni=ssl.fastly.com&allowInsecure=0&insecure=0&fp=android#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@k1.cloud--vpn.site:443?security=tls&type=ws&path=%2F&host=c12.com&packetEncoding=none&sni=ssl.fastly.com&allowInsecure=0&insecure=0&fp=chrome#🇳🇱 🏴 WLUnlocker Нидерланды | #2
