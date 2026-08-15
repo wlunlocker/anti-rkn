@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 15.08.03
+# last-update: 15.08.04
 # count: 200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇦🇹 🏳️ WLUnlocker Австрия | #1
 ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.42:8080#🇨🇭 🏳️ WLUnlocker Швейцария | #2
