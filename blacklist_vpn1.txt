@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 15.08.21
+# last-update: 15.08.22
 # count: 100
 vless://ead060e5-21f9-5369-b9f9-175ab7faa20f@191.44.32.103:5000?encryption=none&flow=xtls-rprx-vision&pbk=SLrTZEGZV42hDpfoCkqPZwwVK2V57Db3y6LxKbxexGU&security=reality&sid=ec4a18&sni=www.vk.com&spx=%2F1rlps4jHgkaq01i&type=tcp&fp=firefox#🇺🇸 🏴 WLUnlocker США | #1
 vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:443?type=ws#🇩🇪 🏴 WLUnlocker Германия | #2
