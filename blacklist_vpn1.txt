@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 15.08.12
+# last-update: 15.08.13
 # count: 107
 vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?security=none&type=ws&sni=&path=%2Fvless#🇫🇮 🏴 WLUnlocker Финляндия | #1
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.119.19.208:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#🇨🇭 🏴 WLUnlocker Швейцария | #2
