@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 15.08.04
+# last-update: 15.08.05
 # count: 53
 vless://9100bc54-e58f-49fe-bd2d-e3d3dc1beb95@api.yandex-dev.online:443?security=reality&encryption=none&sni=api.yandex-dev.online&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision&fp=chrome#🇺🇸 🏴 WLUnlocker США | #1
 vless://9100bc54-e58f-49fe-bd2d-e3d3dc1beb95@api.yandex-dev.online:443?security=reality&encryption=none&sni=api.yandex-dev.online&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision&fp=qq#🇺🇸 🏴 WLUnlocker США | #2
