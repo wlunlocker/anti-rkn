@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 16.08.08
+# last-update: 16.08.09
 # count: 200
 ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn02.somethingstranges.com:8108?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D43309-nIao34iu.download.microsoft.com#🇳🇱 🏳️ WLUnlocker Нидерланды | #1
 ss://Y2hhY2hhMjAtaWV0ZjpwYXNzd2Q@cn01.somethingstranges.com:8102?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D43309-nIao34iu.download.microsoft.com#🇳🇱 🏳️ WLUnlocker Нидерланды | #2
