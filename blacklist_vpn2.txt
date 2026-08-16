@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 16.08.21
+# last-update: 16.08.22
 # count: 200
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443/?sni=at133.mechvpn.online#🇺🇸 🏳️ WLUnlocker США | #1
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at164.mechvpn.online:443?allow_insecure=1&allowInsecure=1&insecure=1&sni=at164.mechvpn.online%23%F0%9F%8C%90%2B%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%2B%5B%23%D0%A0%D0%9A%D0%9F%5D#🇺🇸 🏳️ WLUnlocker США | #2
