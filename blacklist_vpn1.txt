@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 17.08.06
+# last-update: 17.08.07
 # count: 137
 vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:443?type=ws&fp=qq#🇩🇪 🏴 WLUnlocker Германия | #1
 vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?fp=chrome&security=false&type=ws&path=%2Fvless&headerType=none&descriptions=СвободуИнтернету98#🇫🇮 🏴 WLUnlocker Финляндия | #2
