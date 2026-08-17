@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 17.08.20
+# last-update: 17.08.21
 # count: 69
 vless://88de9f34-576c-472e-bc11-2b1f63ef19e5@pichi.picmusic.ir:15882?security=reality&encryption=none&pbk=gZT_3S5MB7JX7lYznOoo9CgMXpJtwEy7ChVtybbUjz4&headerType=none&fp=chrome&spx=/&type=tcp&sni=arxiv.org&sid=f378eb2f#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://65f5f17f-fa6a-44a8-9d23-271c61da2963@a2.arshia-nova.ir:443?security=tls&sni=ssl.fastly.com&type=ws&path=%2F&host=c12.com#🇳🇱 🏴 WLUnlocker Нидерланды | #2
