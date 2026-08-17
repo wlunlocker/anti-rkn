@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 17.08.18
+# last-update: 17.08.19
 # count: 200
 hysteria2://55b71f97202647049ce999646de57c50@f1b.wareznet.ru:8444?sni=f1b.wareznet.ru#🇩🇪 🏳️ WLUnlocker Германия | #1
 hysteria2://f056b41dc9f2b516e333738d1345a6be46a8ca80a3870ffe@n.nl.cleanersaz.help:443?insecure=1&sni=n.nl.cleanersaz.help#🇳🇱 🏳️ WLUnlocker Нидерланды | #2
