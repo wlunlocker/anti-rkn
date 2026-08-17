@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 17.08.02
+# last-update: 17.08.03
 # count: 127
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.119.19.208:443?security=reality&encryption=none&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&flow=xtls-rprx-vision&fp=qq#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?type=ws&encryption=none#🇪🇸 🏴 WLUnlocker Испания | #2
