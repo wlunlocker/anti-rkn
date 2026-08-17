@@ -1,6 +1,6 @@
 # profile-title: 🌐🏴VPN - ВСЕ СЕРВЕРА
 # profile-update-interval: 1
-# last-update: 17.08.12
+# last-update: 17.08.13
 # кол-во: 3128
 vless://921db318-1694-4408-9cc7-c93df39f7f8e@au.monkora.org:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sni=au.monkora.org#🇦🇺 🏴 WLUnlocker Австралия | #1
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@67.159.17.223:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ukD87Vk-vZlpFizTh-zSjst2lEN39Cfyjd4mNiu2CS0&sid=825d392c67e4&sni=au.musicwave.net#🇦🇺 🏴 WLUnlocker Австралия | #2
