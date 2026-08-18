@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 18.08.21
+# last-update: 18.08.22
 # count: 72
 vless://99d6bdee-1d04-455e-8ad9-43fc14b544b4@94.237.93.20:33651?security=none&encryption=none&headerType=none&type=tcp#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://fd94a343-cb11-45e6-9882-72352d0a2b8f@201.24.49.130:9871?type=grpc&security=reality&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&sni=dl.google.com&mode=multi&serviceName=grpc-tunnel&fp=chrome#🇧🇪 🏴 WLUnlocker Бельгия | #2
