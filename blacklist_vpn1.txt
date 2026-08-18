@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 18.08.09
+# last-update: 18.08.10
 # count: 78
 vless://fa4babae-cea3-49b1-9d6f-342495a46ea9@201.24.49.62:1?security=&encryption=none&headerType=&type=tcp#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://fa4babae-cea3-49b1-9d6f-342495a46ea9@201.24.49.62:3?security=&encryption=none&headerType=&type=tcp#🇫🇷 🏴 WLUnlocker Франция | #2
