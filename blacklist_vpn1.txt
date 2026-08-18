@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 18.08.03
+# last-update: 18.08.04
 # count: 71
 vless://68ef57c2-fc11-4468-9e68-625704c5eee8@sof.edgeptr.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&sid=f0eb800bd980b00b#🇫🇮 🏴 WLUnlocker Финляндия | #1
 vless://604c8c22-1524-4a3f-b85f-d3375482dcc4@31.207.7.152:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=zWDvtTWK-cWWwHDMHMXcOpQy4k3EKp7yw-5e0wTZAUM&sid=5efa80b939612291&sni=d3-se1.cloud-cdn.xyz#🇳🇱 🏴 WLUnlocker Нидерланды | #2
