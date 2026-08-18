@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 18.08.06
+# last-update: 18.08.07
 # count: 200
 hysteria2://f056b41dc9f2b516e333738d1345a6be46a8ca80a3870ffe@n.nl.cleanersaz.help:443?insecure=1&sni=n.nl.cleanersaz.help#🇳🇱 🏳️ WLUnlocker Нидерланды | #1
 hysteria2://f056b41dc9f2b516e333738d1345a6be46a8ca80a3870ffe@n.nl.cleanersaz.help:443?security=tls&insecure=1#🇳🇱 🏳️ WLUnlocker Нидерланды | #2
