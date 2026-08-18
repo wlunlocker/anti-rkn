@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 18.08.15
+# last-update: 18.08.16
 # count: 86
 vless://a492e889-3889-48c9-958b-d0f4a857a751@dvkse.avetrial.com:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=dvkse.avetrial.com&fp=android#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://a492e889-3889-48c9-958b-d0f4a857a751@dvkse.avetrial.com:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=dvkse.avetrial.com&fp=chrome#🇪🇸 🏴 WLUnlocker Испания | #2
