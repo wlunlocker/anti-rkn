@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 18.08.15
+# last-update: 18.08.16
 # count: 200
 hysteria2://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@bel-02.node.lumixnet.com:443?sni=bel-02.node.lumixnet.com#🇺🇸 🏳️ WLUnlocker США | #1
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@177.3.212.103:443/?insecure=1&sni=nl1.noesissite.ru#🇩🇪 🏳️ WLUnlocker Германия | #2
