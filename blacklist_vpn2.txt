@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 19.08.05
+# last-update: 19.08.07
 # count: 200
 hysteria2://085178e12d2211ec@nl.prisma-access.club:8445/?sni=nl.prisma-access.club#🇳🇱 🏳️ WLUnlocker Нидерланды | #1
 hysteria2://f056b41dc9f2b516e333738d1345a6be46a8ca80a3870ffe@150.251.141.72:443/?insecure=1&sni=n.nl.cleanersaz.help#🇳🇱 🏳️ WLUnlocker Нидерланды | #2
