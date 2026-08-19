@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 19.08.02
+# last-update: 19.08.03
 # count: 81
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.125.218.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=asia.cendora.ru&fp=firefox&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&type=tcp&headerType=none#🇺🇸 🏴 WLUnlocker США | #1
 vless://b8783764-ad60-58bb-b2c9-349bfd373a72@australia.cloudpath.live:443?encryption=none&security=reality&sni=microsoft.com&fp=chrome&pbk=cFN7odVXQ1cSZytdix8HMr7orcapw_LNy2k0I-gVs0k&sid=2d0a68bd&type=tcp&headerType=none#🇺🇸 🏴 WLUnlocker США | #2
