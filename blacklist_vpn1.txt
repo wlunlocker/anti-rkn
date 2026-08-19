@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 19.08.06
+# last-update: 19.08.07
 # count: 134
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@103.125.218.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=asia.cendora.ru&fp=firefox&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077&type=tcp&headerType=none#🇺🇸 🏴 WLUnlocker США | #1
 vless://1616852b-140e-46e1-99ad-8cefe44da466@149.33.10.41:48982?type=xhttp&security=reality&path=%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noSSEHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22333-1777%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%7D&sni=cdn4-23.yahoo.com&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&fp=firefox&encryption=none#🇺🇸 🏴 WLUnlocker США | #2
