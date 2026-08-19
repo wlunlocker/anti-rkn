@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 19.08.12
+# last-update: 19.08.13
 # count: 90
 vless://3e4d70e5-7ec9-48f9-a4e0-48c44c6063fd@149.33.10.41:48902?type=xhttp&security=reality&fp=firefox&pbk=yq01VenWbLNvCjmrZsJG10sto7KfKezO8as1wHxeV1M&sni=account.amd.com#🇺🇸 🏴 WLUnlocker США | #1
 vless://1616852b-140e-46e1-99ad-8cefe44da466@45.86.60.186:48982?encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noSSEHeader%22%3Atrue%2C%22xPaddingBytes%22%3A%22333-1777%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%7D&fp=edge&mode=auto&path=%2F&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&security=reality&sni=cdn7-54.yahoo.com&type=xhttp#🇺🇸 🏴 WLUnlocker США | #2
