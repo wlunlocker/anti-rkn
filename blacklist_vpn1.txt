@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 20.08.14
+# last-update: 20.08.15
 # count: 135
 vless://ef18d810-719c-4bf1-83c6-615d01f217eb@177.3.215.222:7443?encryption=none&flow=xtls-rprx-vision&pbk=G_S0P7C8yMmd9miNj8RW8Cka8KS5cR-YtzK9ujzWjlk&security=reality&sid=67f243c1d0d5&sni=sw2.cryptoofarm.com&type=tcp&fp=android#🇩🇪 🏴 WLUnlocker Германия | #1
 vless://ef18d810-719c-4bf1-83c6-615d01f217eb@177.3.215.222:7443?encryption=none&flow=xtls-rprx-vision&pbk=G_S0P7C8yMmd9miNj8RW8Cka8KS5cR-YtzK9ujzWjlk&security=reality&sid=67f243c1d0d5&sni=sw2.cryptoofarm.com&type=tcp&fp=chrome#🇩🇪 🏴 WLUnlocker Германия | #2
