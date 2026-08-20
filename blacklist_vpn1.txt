@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 20.08.10
+# last-update: 20.08.11
 # count: 125
 vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@212.80.218.161:443?encryption=none&security=tls&sni=fin4.wba-pn.ru&insecure=0&allowInsecure=0&type=ws&host=fin4.wba-pn.ru&path=%2F&fp=chrome#🇳🇱 🏴 WLUnlocker Нидерланды | #1
 vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@212.80.218.161:443?encryption=none&security=tls&sni=fin4.wba-pn.ru&insecure=0&allowInsecure=0&type=ws&host=fin4.wba-pn.ru&path=%2F&fp=firefox#🇳🇱 🏴 WLUnlocker Нидерланды | #2
