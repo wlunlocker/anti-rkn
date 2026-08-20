@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 20.08.02
+# last-update: 20.08.03
 # count: 200
 hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@olp.crsmaps.com:443/?security=tls&fp=firefox&alpn=h3&sni=olp.crsmaps.com#🇩🇪 🏳️ WLUnlocker Германия | #1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#🇨🇦 🏳️ WLUnlocker Канада | #2
