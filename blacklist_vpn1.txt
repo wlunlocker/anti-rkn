@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 20.08.19
+# last-update: 20.08.20
 # count: 113
 vless://22419260-5475-49d8-a29c-01905c54d1b8@117.55.194.77:709?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.kayak.com&pbk=YQGxuBmerdc9w64ESEpkvU7BzpqPTmQ_YhVSYypnEnU&sid=42b7393d3e94e4c7&fp=edge#🇺🇸 🏴 WLUnlocker США | #1
 vless://22419260-5475-49d8-a29c-01905c54d1b8@117.55.194.77:709?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.kayak.com&pbk=YQGxuBmerdc9w64ESEpkvU7BzpqPTmQ_YhVSYypnEnU&sid=42b7393d3e94e4c7&fp=firefox#🇺🇸 🏴 WLUnlocker США | #2
