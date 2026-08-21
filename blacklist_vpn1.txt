@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 21.08.19
+# last-update: 21.08.20
 # count: 122
 vless://7e8825a4-86ac-486f-a06c-0917ced9dfcd@nrt.nlrocket.org:443?encryption=none&security=reality&sni=nrt.nlrocket.org&fp=qq&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&spx=%2F&flow=xtls-rprx-vision#🇫🇮 🏴 WLUnlocker Финляндия | #1
 vless://7e8825a4-86ac-486f-a06c-0917ced9dfcd@nrt.nlrocket.org:443?encryption=none&security=reality&sni=nrt.nlrocket.org&fp=firefox&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&spx=%2F&flow=xtls-rprx-vision#🇫🇮 🏴 WLUnlocker Финляндия | #2
