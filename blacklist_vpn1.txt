@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 21.08.04
+# last-update: 21.08.05
 # count: 87
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.134.26.97:443?type=tcp&security=reality&sni=nordic.cendora.ru&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&encryption=none&flow=xtls-rprx-vision&fp=firefox#🇺🇸 🏴 WLUnlocker США | #1
 vless://be3960db-f339-479a-be7b-c1a130601141@test-cdn-vk-d.cdn.cachefleet.com:443?type=httpupgrade&headerType=none&security=tls&encryption=none&sni=test-cdn-vk-d.cdn.cachefleet.com&alpn=http%2F1.1&path=%2Fassets%2Fv4%2Ff37d0a1c9e6b4f28a5d3027bc918e64a%2Fdata&host=test-cdn-vk-d.cdn.cachefleet.com&insecure=0&fp=android#🇪🇸 🏴 WLUnlocker Испания | #2
