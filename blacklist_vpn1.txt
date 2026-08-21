@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 21.08.22
+# last-update: 21.08.23
 # count: 134
 vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@89.47.55.6:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&fp=chrome&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY#🇩🇪 🏴 WLUnlocker Германия | #1
 vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@89.47.55.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=chrome&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY#🇩🇪 🏴 WLUnlocker Германия | #2
