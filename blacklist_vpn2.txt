@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 21.08.19
+# last-update: 21.08.20
 # count: 200
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@bg185.mechvpn.online:443?alpn=h3&sni=bg185.mechvpn.online#🇳🇱 🏳️ WLUnlocker Нидерланды | #1
 hysteria2://7e8825a4-86ac-486f-a06c-0917ced9dfcd@93.152.220.40:443?sni=wlh.moonshard.org&fp=qq#🇫🇮 🏳️ WLUnlocker Финляндия | #2
