@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 21.08.03
+# last-update: 21.08.04
 # count: 200
 hysteria2://austria_hysteria2_fastlane_cm3me7jc4%3AqNa7JlEcWxcOrkmxGHDbbg9iBGCGE7IV@94.228.163.122:1935?sni=at4.h.fastlanehosting.ru#🇺🇸 🏳️ WLUnlocker США | #1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦 🏳️ WLUnlocker Канада | #2
