@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 21.08.14
+# last-update: 21.08.15
 # count: 83
 vless://3979cfac-7f7b-3dcf-a4e4-513eb8d125a7@family.bucket.8.kfc-520.com:10026?security=reality&flow=xtls-rprx-vision&pbk=-iZh6xpEREbTssMskcpNOjrqzHuDTb3t5Mg9L7t9qXM&sid=017184&sni=www.hp.com&type=tcp&headerType=none&host=www.hp.com&path=%2F&fp=android#🇺🇸 🏴 WLUnlocker США | #1
 vless://3979cfac-7f7b-3dcf-a4e4-513eb8d125a7@family.bucket.8.kfc-520.com:10026?security=reality&flow=xtls-rprx-vision&pbk=-iZh6xpEREbTssMskcpNOjrqzHuDTb3t5Mg9L7t9qXM&sid=017184&sni=www.hp.com&type=tcp&headerType=none&host=www.hp.com&path=%2F&fp=chrome#🇺🇸 🏴 WLUnlocker США | #2
