@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 22.08.14
+# last-update: 22.08.15
 # count: 91
 vless://8a291364-b469-4276-a1f2-24ae4080dc61@138.124.100.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&sni=estonia.milas.click&fp=android#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://8a291364-b469-4276-a1f2-24ae4080dc61@138.124.100.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&sni=estonia.milas.click&fp=chrome#🇪🇸 🏴 WLUnlocker Испания | #2
