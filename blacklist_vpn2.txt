@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 22.08.12
+# last-update: 22.08.13
 # count: 200
 hysteria2://3ec082d54e@srv-40a0eb.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#🇺🇸 🏳️ WLUnlocker США | #1
 hysteria2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443#🇩🇪 🏳️ WLUnlocker Германия | #2
