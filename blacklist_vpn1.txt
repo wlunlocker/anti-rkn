@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 22.08.12
+# last-update: 22.08.13
 # count: 134
 vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@194.76.18.2:8880?security=none&type=ws&path=/pyip=Telegram @WangCai2&host=yellow-mouse-fcce.400-318.workers.dev&packetEncoding=xudp&encryption=none#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://237b7689-d644-4f32-be77-b0f76b1c1135@5.39.202.22:443?encryption=none&flow=xtls-rprx-vision&pbk=nmPeOfYZT013UKwb2_Qz7j1cdUxxXs8cQ0c6Fy3drA4&security=reality&sid=0940f3e34948cb41&sni=fudjia.buildsnow.top&type=tcp&fp=chrome#🇨🇭 🏴 WLUnlocker Швейцария | #2
