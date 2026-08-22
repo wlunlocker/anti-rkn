@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 22.08.03
+# last-update: 22.08.04
 # count: 88
 vless://a261baf0-8e37-4ff0-b9d1-7180c570073a@31.56.187.86:443?encryption=none&fp=firefox&pbk=Zo3OftHANSWinV-kajh98gqzcjWnkB_q7JPaG87SMGA&security=reality&sni=ee.dealfre.xyz&type=grpc#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://a261baf0-8e37-4ff0-b9d1-7180c570073a@ee.dealfre.xyz:443?type=grpc&headerType=none&security=reality&encryption=none&sni=ee.dealfre.xyz&fp=firefox&pbk=Zo3OftHANSWinV-kajh98gqzcjWnkB_q7JPaG87SMGA&spx=%2F#🇪🇸 🏴 WLUnlocker Испания | #2
