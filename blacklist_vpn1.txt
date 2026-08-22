@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 22.08.08
+# last-update: 22.08.09
 # count: 107
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@ca.milkabebar.ir:17780?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@ca.milkabebar.ir:17780?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=qq&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#🇨🇦 🏴 WLUnlocker Канада | #2
