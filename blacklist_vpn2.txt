@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 22.08.03
+# last-update: 22.08.04
 # count: 198
 hysteria2://3703ccc0-ae74-49bd-b9d7-0897192bf8c4@node.embrofree.org:443?sni=node.embrofree.org&security=tls#🇩🇪 🏳️ WLUnlocker Германия | #1
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@bg185.mechvpn.online:443?alpn=h3&sni=bg185.mechvpn.online#🇳🇱 🏳️ WLUnlocker Нидерланды | #2
