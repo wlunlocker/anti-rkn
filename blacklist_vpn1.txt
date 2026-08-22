@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 22.08.22
+# last-update: 22.08.23
 # count: 147
 vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@18.183.87.213:10026?encryption=none&flow=xtls-rprx-vision&pbk=-iZh6xpEREbTssMskcpNOjrqzHuDTb3t5Mg9L7t9qXM&security=reality&sid=017184&sni=www.hp.com&type=tcp&fp=firefox#🇺🇸 🏴 WLUnlocker США | #1
 vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@18.183.87.213:10026?encryption=none&flow=xtls-rprx-vision&pbk=-iZh6xpEREbTssMskcpNOjrqzHuDTb3t5Mg9L7t9qXM&security=reality&sid=017184&sni=www.hp.com&type=tcp&fp=qq#🇺🇸 🏴 WLUnlocker США | #2
