@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 22.08.19
+# last-update: 22.08.20
 # count: 108
 vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@family.bucket.9.kfc-520.com:10050?security=reality&type=tcp&packetEncoding=none&sni=www.hp.com&flow=xtls-rprx-vision&sid=8def87fb30886534&pbk=U1eMEZpYrlL2SvcFw0efhudE0SSBJ9q5QKCWWEXA53w&fp=android#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@family.bucket.9.kfc-520.com:10050?security=reality&type=tcp&packetEncoding=none&sni=www.hp.com&flow=xtls-rprx-vision&sid=8def87fb30886534&pbk=U1eMEZpYrlL2SvcFw0efhudE0SSBJ9q5QKCWWEXA53w&fp=chrome#🇨🇭 🏴 WLUnlocker Швейцария | #2
