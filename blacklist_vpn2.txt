@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 23.08.21
+# last-update: 23.08.22
 # count: 200
 hysteria2://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@gd-0z.whit3.net:443?insecure=1&sni=gd-0z.whit3.net#🇩🇪 🏳️ WLUnlocker Германия | #1
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#🇨🇦 🏳️ WLUnlocker Канада | #2
