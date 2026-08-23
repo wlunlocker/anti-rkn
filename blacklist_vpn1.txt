@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 23.08.03
+# last-update: 23.08.04
 # count: 134
 vless://e99794a5-0cec-407f-ab8b-421e60bf6165@185.223.170.196:443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/connect&security=tls&sni=ab-v1.bosx.net&type=ws#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@185.36.141.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=est3.freeinternat.com&type=tcp#🇪🇸 🏴 WLUnlocker Испания | #2
