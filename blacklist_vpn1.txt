@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 23.08.22
+# last-update: 23.08.23
 # count: 79
 vless://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@31.77.154.244:443?encryption=none&flow=xtls-rprx-vision&pbk=K8LxbhrcgxM7bIW8SGKmEvqn-zbAGqyi4G37_u-kbh4&security=reality&sid=c2b104f3483063c5&sni=it-two.letsgodance.site&type=tcp&fp=chrome#🇮🇹 🏴 WLUnlocker Италия | #1
 vless://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@31.77.154.244:443?encryption=none&flow=xtls-rprx-vision&pbk=K8LxbhrcgxM7bIW8SGKmEvqn-zbAGqyi4G37_u-kbh4&security=reality&sid=c2b104f3483063c5&sni=it-two.letsgodance.site&type=tcp&fp=firefox#🇮🇹 🏴 WLUnlocker Италия | #2
