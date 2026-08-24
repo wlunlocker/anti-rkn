@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 24.08.14
+# last-update: 24.08.15
 # count: 99
 vless://6b504c50-8535-44cf-8e4e-f8ee674a922e@cf5.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net@https://t.me/QiangLieTuiJian&host=old-moon-16d0.156-a25.workers.dev&packetEncoding=xudp&encryption=none#🇨🇦 🏴 WLUnlocker Канада | #1
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132-243-223-227.sslip.io:2101?security=tls&encryption=none&insecure=0&type=grpc&serviceName=fi-grpc-test&allowInsecure=0&sni=132-243-223-227.sslip.io&fp=chrome#🇳🇱 🏴 WLUnlocker Нидерланды | #2
