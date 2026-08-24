@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 24.08.11
+# last-update: 24.08.12
 # count: 98
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@178.172.227.178:443?alpn=h2%2Chttp%2F1.1&encryption=none&path=%2F&security=tls&sni=by01.botovod.space&type=xhttp&fp=firefox#🇺🇸 🏴 WLUnlocker США | #1
 vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@178.172.227.178:443?type=xhttp&security=tls&fp=firefox&sni=by01.botovod.space#🇺🇸 🏴 WLUnlocker США | #2
