@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 24.08.14
+# last-update: 24.08.15
 # count: 200
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦 🏳️ WLUnlocker Канада | #1
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#🇫🇷 🏳️ WLUnlocker Франция | #2
