@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 24.08.20
+# last-update: 24.08.21
 # count: 93
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@177.3.215.111:443?type=tcp&security=reality&sni=nordic.cendora.ru&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇩🇪 🏴 WLUnlocker Германия | #1
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@177.3.215.111:443?type=tcp&security=reality&sni=nordic.cendora.ru&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&fp=qq&encryption=none&flow=xtls-rprx-vision#🇩🇪 🏴 WLUnlocker Германия | #2
