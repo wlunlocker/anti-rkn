@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 25.08.22
+# last-update: 25.08.23
 # count: 178
 vless://8ff82100-8aad-4281-bf41-f318519d7182@46.20.105.132:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ar.jobinvest.ru&type=tcp#🇺🇸 🏴 WLUnlocker США | #1
 vless://8ff82100-8aad-4281-bf41-f318519d7182@46.20.105.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ca.jobinvest.ru&type=tcp#🇨🇦 🏴 WLUnlocker Канада | #2
