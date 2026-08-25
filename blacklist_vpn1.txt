@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 25.08.06
+# last-update: 25.08.07
 # count: 142
 vless://5c5619e4-0577-48d4-8d0c-6ad9c5cc0ecf@185.114.48.177:22216?encryption=none&fp=firefox&pbk=sTE0YXI6Pv6OQUNbM-hNpNOhzon0_m2YUd7B1_g-JAU&security=reality&sid=0f4412d42129f080&sni=amp-api-edge.apps.apple.com&type=tcp#🇨🇭 🏴 WLUnlocker Швейцария | #1
 vless://5c5619e4-0577-48d4-8d0c-6ad9c5cc0ecf@neth2noad.whooisthebest.ir:22216?security=reality&encryption=none&pbk=sTE0YXI6Pv6OQUNbM-hNpNOhzon0_m2YUd7B1_g-JAU&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=0f4412d42129f080#🇨🇭 🏴 WLUnlocker Швейцария | #2
