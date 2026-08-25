@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 25.08.18
+# last-update: 25.08.19
 # count: 137
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fi-hel-ovh-01.sfproxy.fuck-rkn.dev:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jobinvest.ru&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=android#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://8ff82100-8aad-4281-bf41-f318519d7182@fi-hel-ovh-01.sfproxy.fuck-rkn.dev:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=jobinvest.ru&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#🇫🇷 🏴 WLUnlocker Франция | #2
