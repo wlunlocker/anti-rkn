@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #2 (SS+OTHER)
-# last-update: 26.08.09
+# last-update: 26.08.10
 # count: 200
 hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.56:9080?sni=grape-honk.yyuyy.com#🇨🇭 🏳️ WLUnlocker Швейцария | #1
 hysteria2://becd3b04-62a8-4b74-be67-be746008b4c2@45.149.147.194:443?sni=hys-mesh.spliceflowtech.com&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22bbr%22%2C%22keepAlivePeriod%22%3A5%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%2C%22initStreamReceiveWindow%22%3A8388608%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22initConnectionReceiveWindow%22%3A20971520%7D%7D#🇳🇱 🏳️ WLUnlocker Нидерланды | #2
