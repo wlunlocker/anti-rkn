@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 26.08.10
+# last-update: 26.08.11
 # count: 140
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@ice.noooo.win:443?type=xhttp&security=reality&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=a3f9c2d4e8b1a7c6&sni=sentry.allepal.ee&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=chrome#🇪🇸 🏴 WLUnlocker Испания | #1
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@ice.noooo.win:443?type=xhttp&security=reality&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=a3f9c2d4e8b1a7c6&sni=sentry.allepal.ee&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=firefox#🇪🇸 🏴 WLUnlocker Испания | #2
