@@ -1,5 +1,5 @@
 # profile-title: 🏴VPN #1 (VLESS)
-# last-update: 30.08.20
+# last-update: 30.08.23
 # count: 63
 vless://a2adde9c-4714-4b7c-9f4c-5b32d85df5b6@129.151.239.170:8444?encryption=none&security=reality&sni=tesla.com&flow=xtls-rprx-vision&type=tcp&pbk=Pgzq-J8UfuBeYi0XSVTn3uYYmi9Rm2dpegks9Ko8M0Y&fp=android#🇫🇷 🏴 WLUnlocker Франция | #1
 vless://a2adde9c-4714-4b7c-9f4c-5b32d85df5b6@129.151.239.170:8444?encryption=none&security=reality&sni=tesla.com&flow=xtls-rprx-vision&type=tcp&pbk=Pgzq-J8UfuBeYi0XSVTn3uYYmi9Rm2dpegks9Ko8M0Y&fp=chrome#🇫🇷 🏴 WLUnlocker Франция | #2
